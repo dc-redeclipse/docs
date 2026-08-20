@@ -1,3 +1,14 @@
+---
+title: Editing - Blendmap
+layout: docs
+origfile: editing/Blendmap.md
+origtitle: Blendmap
+permalink: /docs/editing/Blendmap
+redirect_from:
+  - /wiki/editing/Blendmap/
+---
+* TOC
+{:toc}
 
 ## Blendmap
 
@@ -66,11 +77,11 @@ A blendbrush can easily be created with any greyscale image. The darker parts ar
 
 | **Where do i place them?** | |
 |-|-|
-| The default brushes are stored in *data/blendbrush*. To add custom brushes, you will want to add them to *blendbrush/* in your [user data](FAQ.md#where-do-i-find-screenshots-logs-and-other-user-data) directory. | [![Blendmap](images/editing/blendmap04.jpg "A custom blendbrush used to paint stripes")](images/editing/blendmap04.jpg) |
+| The default brushes are stored in *data/blendbrush*. To add custom brushes, you will want to add them to *blendbrush/* in your [user data](FAQ#where-do-i-find-screenshots-logs-and-other-user-data) directory. | [![Blendmap](images/editing/blendmap04.jpg "A custom blendbrush used to paint stripes")](images/editing/blendmap04.jpg) |
 
 ### Dumping the blendmap
 
-You can dump a greyscale image of the blendmap information to your [user data](FAQ.md#where-do-i-find-screenshots-logs-and-other-user-data). This can be used to quickly visualise which areas of your map have yet to be painted. The painted areas of the blendmap are represented by black pixels.
+You can dump a greyscale image of the blendmap information to your [user data](FAQ#where-do-i-find-screenshots-logs-and-other-user-data). This can be used to quickly visualise which areas of your map have yet to be painted. The painted areas of the blendmap are represented by black pixels.
 
 `/dumpblendtexs`
 

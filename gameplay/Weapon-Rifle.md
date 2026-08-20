@@ -1,6 +1,18 @@
+---
+title: Gameplay - Weapon Rifle
+layout: docs
+origfile: gameplay/Weapon-Rifle.md
+origtitle: Weapon-Rifle
+permalink: /docs/gameplay/Weapon-Rifle
+redirect_from:
+  - /docs/gameplay/Weapon_Rifle/
+  - /wiki/gameplay/Weapon_Rifle/
+---
+* TOC
+{:toc}
 ## Laser Rifle
 
-[Click here to return to the main page.](Weapons-Guide.md)
+[Click here to return to the main page.](Weapons-Guide)
 
 <img src="../images/weapons/weaponsguide/rifle.png" height="300px"/>
 

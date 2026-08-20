@@ -1,3 +1,15 @@
+---
+title: Former Maps
+layout: docs
+origfile: Former-Maps.md
+origtitle: Former-Maps
+permalink: /docs/Former-Maps
+redirect_from:
+  - /docs/Former_Maps/
+  - /wiki/Former_Maps/
+---
+* TOC
+{:toc}
 
 ## 1.6 maps
 

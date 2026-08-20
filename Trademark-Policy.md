@@ -1,3 +1,15 @@
+---
+title: Trademark Policy
+layout: docs
+origfile: Trademark-Policy.md
+origtitle: Trademark-Policy
+permalink: /docs/Trademark-Policy
+redirect_from:
+  - /docs/Trademark_Policy/
+  - /wiki/Trademark_Policy/
+---
+* TOC
+{:toc}
 # THE RED ECLIPSE MARK POLICY
 
 ## General Guidelines
@@ -148,7 +160,7 @@ as described above.
 
 ## Attribution
 
-This text is Copyright (C) 2011-2019, the Red Eclipse Team
+This text is Copyright (C) 2011-2025, the Red Eclipse Team
 and is available under a Creative Commons Attribution-ShareAlike 4.0
 License <http://creativecommons.org/licenses/by-sa/4.0/>
 

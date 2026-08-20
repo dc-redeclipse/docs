@@ -1,4 +1,16 @@
-For those mutators specific to certain game modes, see the corresponding [mode pages](Modes-and-Mutators.md).
+---
+title: Mutator Tips
+layout: docs
+origfile: Mutator-Tips.md
+origtitle: Mutator-Tips
+permalink: /docs/Mutator-Tips
+redirect_from:
+  - /docs/Mutator_Tips/
+  - /wiki/Mutator_Tips/
+---
+* TOC
+{:toc}
+For those mutators specific to certain game modes, see the corresponding ~~[mode pages](Modes-and-Mutators)~~.
 
 ## FFA
 <img src="images/modes/ffa.png" width="64px"/>

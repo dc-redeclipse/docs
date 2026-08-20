@@ -1,6 +1,18 @@
+---
+title: Gameplay - Weapon Smg
+layout: docs
+origfile: gameplay/Weapon-Smg.md
+origtitle: Weapon-Smg
+permalink: /docs/gameplay/Weapon-Smg
+redirect_from:
+  - /docs/gameplay/Weapon_Smg/
+  - /wiki/gameplay/Weapon_Smg/
+---
+* TOC
+{:toc}
 ## Submachine Gun
 
-[Click here to return to the main page.](Weapons-Guide.md)
+[Click here to return to the main page.](Weapons-Guide)
 
 <img src="../images/weapons/weaponsguide/smg.png" height="300px"/>
 

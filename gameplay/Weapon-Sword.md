@@ -1,6 +1,18 @@
+---
+title: Gameplay - Weapon Sword
+layout: docs
+origfile: gameplay/Weapon-Sword.md
+origtitle: Weapon-Sword
+permalink: /docs/gameplay/Weapon-Sword
+redirect_from:
+  - /docs/gameplay/Weapon_Sword/
+  - /wiki/gameplay/Weapon_Sword/
+---
+* TOC
+{:toc}
 ## Energy Sword
 
-[Click here to return to the main page.](Weapons-Guide.md)
+[Click here to return to the main page.](Weapons-Guide)
 
 <img src="../images/weapons/weaponsguide/sword.png" height="300px"/>
 

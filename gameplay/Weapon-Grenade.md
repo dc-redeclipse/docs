@@ -1,6 +1,18 @@
+---
+title: Gameplay - Weapon Grenade
+layout: docs
+origfile: gameplay/Weapon-Grenade.md
+origtitle: Weapon-Grenade
+permalink: /docs/gameplay/Weapon-Grenade
+redirect_from:
+  - /docs/gameplay/Weapon_Grenade/
+  - /wiki/gameplay/Weapon_Grenade/
+---
+* TOC
+{:toc}
 ## Frag Grenade
 
-[Click here to return to the main page.](Weapons-Guide.md)
+[Click here to return to the main page.](Weapons-Guide)
 
 <img src="../images/weapons/weaponsguide/grenade.png" height="300px"/>
 

@@ -1,6 +1,18 @@
+---
+title: Gameplay - Weapon Pistol
+layout: docs
+origfile: gameplay/Weapon-Pistol.md
+origtitle: Weapon-Pistol
+permalink: /docs/gameplay/Weapon-Pistol
+redirect_from:
+  - /docs/gameplay/Weapon_Pistol/
+  - /wiki/gameplay/Weapon_Pistol/
+---
+* TOC
+{:toc}
 ## Sidearm Pistol
 
-[Click here to return to the main page.](Weapons-Guide.md)
+[Click here to return to the main page.](Weapons-Guide)
 
 <img src="../images/weapons/weaponsguide/pistol.png" height="300px"/>
 

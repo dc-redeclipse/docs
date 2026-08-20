@@ -1,6 +1,18 @@
+---
+title: Gameplay - Weapon Plasma
+layout: docs
+origfile: gameplay/Weapon-Plasma.md
+origtitle: Weapon-Plasma
+permalink: /docs/gameplay/Weapon-Plasma
+redirect_from:
+  - /docs/gameplay/Weapon_Plasma/
+  - /wiki/gameplay/Weapon_Plasma/
+---
+* TOC
+{:toc}
 ## Plasma Inductor
 
-[Click here to return to the main page.](Weapons-Guide.md)
+[Click here to return to the main page.](Weapons-Guide)
 
 <img src="../images/weapons/weaponsguide/plasma.png" height="300px"/>
 

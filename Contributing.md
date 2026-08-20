@@ -1,3 +1,14 @@
+---
+title: Contributing
+layout: docs
+origfile: Contributing.md
+origtitle: Contributing
+permalink: /docs/Contributing
+redirect_from:
+  - /wiki/Contributing/
+---
+* TOC
+{:toc}
 This guide is a basic introduction to the development model for Red Eclipse, including the procedure for submitting modifications and creating new ideas. It is suggested you read this in its entirety before starting any development related work, as it contains vital information regarding proper etiquette.
 
 ## Preliminaries
@@ -18,7 +29,7 @@ git clone --recurse-submodules https://github.com/redeclipse/base.git redeclipse
 ## Content/Idea/Proposal Guidelines
 
 * Create a piece of content, come up with an idea, or decide to propose a change you want included in Red Eclipse.
-* Then, create a discussion for it at http://redeclipse.net/discuss
+* Then, create a discussion for it at /discuss
 * Give the community a chance to provide feedback (minimum time should be about 2 weeks).
 * When you feel you have come up with a finished work, idea, or proposal, submit it to the appropriate git module as a pull request.
 * Provide a good description along with a link to your original forum topic.

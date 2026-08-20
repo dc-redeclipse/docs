@@ -1,6 +1,18 @@
+---
+title: Gameplay - Weapon Mine
+layout: docs
+origfile: gameplay/Weapon-Mine.md
+origtitle: Weapon-Mine
+permalink: /docs/gameplay/Weapon-Mine
+redirect_from:
+  - /docs/gameplay/Weapon_Mine/
+  - /wiki/gameplay/Weapon_Mine/
+---
+* TOC
+{:toc}
 ## Shock Mine
 
-[Click here to return to the main page.](Weapons-Guide.md)
+[Click here to return to the main page.](Weapons-Guide)
 
 <img src="../images/weapons/weaponsguide/mine.png" height="300px"/>
 

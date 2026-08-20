@@ -1,3 +1,15 @@
+---
+title: Gameplay - Weapons Guide
+layout: docs
+origfile: gameplay/Weapons-Guide.md
+origtitle: Weapons-Guide
+permalink: /docs/gameplay/Weapons-Guide
+redirect_from:
+  - /docs/gameplay/Weapons_Guide/
+  - /wiki/gameplay/Weapons_Guide/
+---
+* TOC
+{:toc}
 *NOTE: This guide is up-to-date with version 2.0.9-9 of Red Eclipse.*
 
 In most games, all players are equipped with a pistol and two loadout weapons that can be chosen in the Player Setup menu. Furthermore, explosive weapons can be collected in the arena, such as grenades and mines, to bolster their offensive abilities.
@@ -7,11 +19,11 @@ Click on one of these weapons to read more about them in detail, or continue onw
 | | | | |
 |:-------:|:-------:|:-------:|:-------:|
 | **Sidearm Pistol** | **Energy Sword** | **Super Shotgun** | **Submachine Gun** |
-| [<img src="../images/weapons/pistol.png" width="128px"/>](Weapon-Pistol.md) | [<img src="../images/weapons/sword.png" width="128px"/>](Weapon-Sword.md) | [<img src="../images/weapons/shotgun.png" width="128px"/>](Weapon-Shotgun.md) | [<img src="../images/weapons/smg.png" width="128px"/>](Weapon-Smg.md) |
+| [<img src="../images/weapons/pistol.png" width="128px"/>](Weapon-Pistol) | [<img src="../images/weapons/sword.png" width="128px"/>](Weapon-Sword) | [<img src="../images/weapons/shotgun.png" width="128px"/>](Weapon-Shotgun) | [<img src="../images/weapons/smg.png" width="128px"/>](Weapon-Smg) |
 | **Flame Thrower** | **Plasma Inductor** | **Electro Zapper** | **Laser Rifle** |
-| [<img src="../images/weapons/flamer.png" width="128px"/>](Weapon-Flamer.md) | [<img src="../images/weapons/plasma.png" width="128px"/>](Weapon-Plasma.md) | [<img src="../images/weapons/zapper.png" width="128px"/>](Weapon-Zapper.md) | [<img src="../images/weapons/rifle.png" width="128px"/>](Weapon-Rifle.md) |
+| [<img src="../images/weapons/flamer.png" width="128px"/>](Weapon-Flamer) | [<img src="../images/weapons/plasma.png" width="128px"/>](Weapon-Plasma) | [<img src="../images/weapons/zapper.png" width="128px"/>](Weapon-Zapper) | [<img src="../images/weapons/rifle.png" width="128px"/>](Weapon-Rifle) |
 | **Corrosion Cannon** | **Frag Grenade** | **Shock Mine** | **Rocket Launcher** |
-| [<img src="../images/weapons/corroder.png" width="128px"/>](Weapon-Corroder.md) | [<img src="../images/weapons/grenade.png" width="128px"/>](Weapon-Grenade.md) | [<img src="../images/weapons/mine.png" width="128px"/>](Weapon-Mine.md) | [<img src="../images/weapons/rocket.png" width="128px"/>](Weapon-Rocket.md) |
+| [<img src="../images/weapons/corroder.png" width="128px"/>](Weapon-Corroder) | [<img src="../images/weapons/grenade.png" width="128px"/>](Weapon-Grenade) | [<img src="../images/weapons/mine.png" width="128px"/>](Weapon-Mine) | [<img src="../images/weapons/rocket.png" width="128px"/>](Weapon-Rocket) |
 
 These weapons have been given ratings in different categories so that you can judge certain traits that a weapon has.
 - *Utility ratings* determine how versatile a weapon is in regards to its predominant use strategy. This can extend to more creative ways of using the weapon, or any additional benefits it may provide. A weapon with limited utility isn't bad - it will mostly do one thing it's intended to do.
@@ -59,7 +71,7 @@ Each weapon has a different weight. In general, the heavier the weapon, the more
 
 ### Status effects
 
-Some weapons induce status ailments that inflict some damage over time and last for about five seconds. Useful to delay enemy health recovery. Multiple effects can be stacked. See the [main article](Status-Effects.md) for more.
+Some weapons induce status ailments that inflict some damage over time and last for about five seconds. Useful to delay enemy health recovery. Multiple effects can be stacked. See the [main article](Status-Effects) for more.
 
 ### Anatomy
 
@@ -67,7 +79,7 @@ The player model is split into 3 parts, which determine how much damage is appli
 
 ### Weapon variables
 
-When playing offline or as a server [operator](Privileges.md), almost all aspects of game rules can be tuned and modified using the [console](Console.md) to control thousands of [variables](Variables.md). This includes a large [array of variables](Variables-and-Commands.md) for each weapon that give you deep control of their characteristics.
+When playing offline or as a server privileges, almost all aspects of game rules can be tuned and modified using the Console to control thousands of variables. This includes a large array of variables for each weapon that give you deep control of their characteristics.
 
 #### Weapon IDs
 
@@ -78,7 +90,7 @@ Weapon numbers or IDs are used for certain variables, for instance when defining
 Variables related to flak or fragmentation give a plethora of options for creating weapon mods. However, the use of these variables can be rather confusing.
 
 - In essence, when the projectile of a weapon is destroyed (impact or expired lifetime), new flak projectiles can be created (fragmentation).
-- The corresponding *fragweap* variable defines which type of projectiles are created according to a [weapon ID](#weapon-ids) (none for -1).
+- The corresponding *fragweap* variable defines which type of projectiles are created according to a weapon ID (none for -1).
 - Further *frag* variables define the number and dynamics of these projectiles.
 - A large array of *flak* variables has defaults inherited from their base weapon variables.
 - These *flak* variables define many properties of flak projectiles. The variable names refer to the type of flak created (the ID used for *fragweap*), not the type of parent projectile.
